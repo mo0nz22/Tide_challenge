@@ -1,5 +1,7 @@
 # Tide_challenge
 
+This app is written in Python3.6
+
 To run the app: 
 ```
 > python app.py
